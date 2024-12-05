@@ -1,0 +1,16 @@
+{
+    "name": "comp03/cyber-blog",
+    "description": "Projeto de software criado por um aluno do 3º ano de informática do CEPI DFM com o intuito de passar de ano",
+    "require": {
+        "twig/twig": "^3.16"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "C:/xampp/htdocs/cyber-blog/App/"
+        }
+    } ,
+    "files" : [
+        "app/config/config.php"
+    ]
+    
+}
